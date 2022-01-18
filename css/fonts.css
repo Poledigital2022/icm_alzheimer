@@ -1,0 +1,46 @@
+
+@font-face {
+	font-family: 'DINPro-Regular';
+	src: url('../fonts/DINPro-Regulard41d.eot?#iefix') format('embedded-opentype'),  
+		 url('../fonts/DINPro-Regular.html')  format('opentype'),   
+		 url('../fonts/DINPro-Regular.woff') format('woff'), 
+		 url('../fonts/DINPro-Regular-2.html')  format('truetype'), 
+		 url('../fonts/DINPro-Regular.svg#DINPro-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'DINPro-Medium';
+	src: url('../fonts/DINPro-Mediumd41d.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/DINPro-Medium.html')  format('opentype'),
+		 url('../fonts/DINPro-Medium.woff') format('woff'),
+		 url('../fonts/DINPro-Medium-2.html')  format('truetype'),
+		 url('../fonts/DINPro-Medium.svg#DINPro-Medium') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'DINPro-Bold';
+	src: url('../fonts/DINPro-Boldd41d.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/DINPro-Bold.html')  format('opentype'),
+		 url('../fonts/DINPro-Bold.woff') format('woff'),
+		 url('../fonts/DINPro-Bold-2.html')  format('truetype'),
+		 url('../fonts/DINPro-Bold.svg#DINPro-Bold') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'DINPro-Black';
+	src: url('../fonts/DINPro-Blackd41d.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/DINPro-Black.html')  format('opentype'),
+		 url('../fonts/DINPro-Black.woff') format('woff'),
+		 url('../fonts/DINPro-Black-2.html')  format('truetype'),
+		 url('../fonts/DINPro-Black.svg#DINPro-Black') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
